@@ -1,0 +1,12 @@
+initialize,3
+insert,90,LIP1G9CGT2
+insert,79,XKB4S5FLMX
+insert,37,6TIMVLRE5B
+insert,6,UAYZ9PV35Z
+delete,6
+delete,79
+insert,2,GORGR2VFP0
+delete,37
+delete,90
+insert,52,M6UL81I5W5
+search,52

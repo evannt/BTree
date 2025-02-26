@@ -1,0 +1,12 @@
+initialize,3
+insert,43,1KTXDMIBNW
+insert,30,O8M969VLXS
+insert,38,K56BJCA7EH
+insert,32,KG0WKRG02X
+delete,43
+insert,8,EJSZ62HUW8
+insert,93,MIY5N4XPSA
+insert,91,A98JA4ENO7
+delete,91
+insert,66,EWCZH64LN5
+search,38

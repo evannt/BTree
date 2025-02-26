@@ -1,0 +1,13 @@
+initialize,3
+insert,2,XBUAEIM68B
+insert,15,QR4EX42MUF
+insert,44,R0L8SMZXZO
+insert,23,5YVRXRWLHO
+insert,94,MH77S6D486
+insert,29,9YD2JJMQ9B
+delete,23
+delete,15
+dump
+insert,82,S54P4CGXZ6
+insert,9,S3GKV7NWE2
+search,9
